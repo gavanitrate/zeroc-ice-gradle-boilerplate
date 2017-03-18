@@ -19,3 +19,5 @@
     gradle compileSlice
     ```
 4. Make sure when executing any class files, that you include the ICE library in the classpath at compile time
+    #### In IntelliJ IDEA, go to File > Project Structure > Modules and mimic these settings
+    ![intellij settings](http://img04.imgland.net/gOscLk.png)
