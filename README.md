@@ -1,4 +1,4 @@
-# zeroc-ide-gradle-boilerplate
+# zeroc-ice-gradle-boilerplate
 
 ## Requirements
 1. Gradle 3.4.1
