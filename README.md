@@ -20,5 +20,5 @@
     gradle compileSlice
     ```
 1. Make sure when executing any class files, that you include the ICE library in the classpath at compile time
-    #### In IntelliJ IDEA, go to File > Project Structure > Modules and make sure the ICE library is included at compile time, in any/all of the modules you want
-    ![intellij settings](http://img04.imgland.net/gOscLk.png)
+    #### In IntelliJ IDEA, go to File > Project Structure > Modules (image below) and make sure the ICE library is included at compile time, in any/all of the modules you want
+    ![intellij settings](https://user-images.githubusercontent.com/8264198/37464581-7909d9c4-28a4-11e8-8b00-d0ca4a203070.png)
